@@ -1,5 +1,4 @@
 fitz
 cohere
-random
 pymupdf
 streamlit
