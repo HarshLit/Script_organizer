@@ -1,4 +1,4 @@
 fitz
 cohere
-pymupdf
+PyMuPDF
 streamlit
