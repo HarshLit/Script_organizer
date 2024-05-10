@@ -1,4 +1,5 @@
 fitz
 cohere
-PyMuPDF
 streamlit
+PyMuPDF==1.24.2
+PyMuPDFb==1.24.1
