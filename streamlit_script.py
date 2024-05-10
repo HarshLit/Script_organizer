@@ -59,7 +59,7 @@ def st_ui():
             page_text = re.sub(r'\s+', ' ', page_text)
             text += page_text
 
-        if st.button("Generate Script"):
+        if st.button("Generate script breakdown"):
             org_script, st.session_state['conversation_id'] = get_script(text)
             st.session_state['generated_script'] = org_script
             st.session_state['continued_script'] = ''  # Clear the continued_script
